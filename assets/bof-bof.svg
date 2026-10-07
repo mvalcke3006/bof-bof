@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 260" width="520" height="260" role="img" aria-label="BOF BOF">
+<defs>
+<filter id="marker" x="-5%" y="-5%" width="110%" height="110%">
+<feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="2" seed="7" result="n"/>
+<feDisplacementMap in="SourceGraphic" in2="n" scale="5"/>
+</filter>
+</defs>
+<g fill="none" stroke="#F5EFE3" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" filter="url(#marker)">
+<g transform="translate(14 14) rotate(-3)">
+<path d="M14 10 C12 40 15 72 13 102"/>
+<path d="M16 12 C52 4 66 22 56 40 C49 52 28 54 17 55"/>
+<path d="M17 55 C62 50 74 72 62 92 C52 106 28 106 14 102"/>
+<path d="M128 10 C160 8 172 44 168 66 C164 94 140 106 120 102 C94 98 82 74 86 46 C90 22 106 10 132 12"/>
+<path d="M204 10 C202 42 205 74 203 104"/>
+<path d="M202 12 C224 7 244 11 262 6"/>
+<path d="M204 56 C220 53 234 57 248 53"/>
+</g>
+<g transform="translate(232 130) rotate(4)">
+<path d="M14 10 C12 40 15 72 13 102"/>
+<path d="M16 12 C52 4 66 22 56 40 C49 52 28 54 17 55"/>
+<path d="M17 55 C62 50 74 72 62 92 C52 106 28 106 14 102"/>
+<path d="M128 10 C160 8 172 44 168 66 C164 94 140 106 120 102 C94 98 82 74 86 46 C90 22 106 10 132 12"/>
+<path d="M204 10 C202 42 205 74 203 104"/>
+<path d="M202 12 C224 7 244 11 262 6"/>
+<path d="M204 56 C220 53 234 57 248 53"/>
+</g>
+</g>
+<g fill="none" stroke="#FFE14D" stroke-width="7" stroke-linecap="round" filter="url(#marker)" transform="translate(232 130) rotate(4)">
+<path d="M106 50 C112 48 118 48 123 50"/>
+<path d="M134 50 C140 48 146 48 151 50"/>
+<path d="M108 54 C112 60 120 60 122 54"/>
+<path d="M136 54 C140 60 148 60 150 54"/>
+<path d="M114 78 C124 76 134 79 144 76"/>
+</g>
+</svg>
